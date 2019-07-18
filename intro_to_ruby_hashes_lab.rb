@@ -2,7 +2,7 @@ def monopoly
   monopoly = {
     :railroads => {}
   }
-	return monopoly[:railroads]
+  puts monopoly
 end
 
 def monopoly_with_second_tier
